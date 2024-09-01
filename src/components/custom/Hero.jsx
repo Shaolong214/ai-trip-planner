@@ -8,7 +8,7 @@ function Hero() {
       <h1 className="font-extrabold text-[50px] text-center mt-16">
         <div>
           <span className="text-[#f56551]">
-            Discover Your Next Adventure with EvAI Traval Planner:
+            Discover Your Next Adventure with AIY Traval Planner:
           </span>
         </div>
         <div>

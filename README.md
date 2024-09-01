@@ -1,4 +1,4 @@
-# EvAI Travel Planner
+# AIY Travel Planner
 
 Explore the world of AI with this full-stack trip planning application! 🌐
 
